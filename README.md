@@ -1,2 +1,1 @@
-# aws-cdk-templates
-aws-cdk-templates
+# AWS CDK TEMPLATES
